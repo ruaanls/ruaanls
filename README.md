@@ -1,4 +1,4 @@
-#### Olá muito prazer, me chamo Ruan Lima, um curioso por programação e tecnologia
+<h1> Olá muito prazer, me chamo Ruan Lima, um curioso por tecnologia </h1>
 
 - 👨‍🎓 Estudante de Ciência da Computação - Mackenzie - SP
 - 👨‍💻 Estudando Lógica de Programação
