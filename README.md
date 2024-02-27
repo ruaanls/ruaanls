@@ -1,7 +1,7 @@
 <h1> Olá muito prazer, me chamo Ruan Lima, um entusiasta por tecnologia e programação </h1>
 
-- 👨‍🎓 Estudante de Ciência da Computação - Mackenzie - SP
-- 👨‍💻 Estudando Lógica de Programação
+- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas - FIAP - SP
+- 👨‍💻 Estudando JavaScript
 - 😎 Iniciando em Programação / Futuro Full-Stack Developer
 - 🙋‍♂️ Pronomes: Ele/Dele
 
