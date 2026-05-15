@@ -8,6 +8,7 @@
 Desenvolvedor Back-End Java com sólida base acadêmica pela **FIAP** e experiência prática em sistemas críticos e de alta escalabilidade. Minha trajetória é marcada pela atuação no ecossistema de **Open Finance do Santander (F1RST)**, onde desenvolvi e sustentei APIs robustas para a squad de Iniciação de Pagamentos, sempre com foco em Clean Code e arquitetura de microsserviços.
 
 Sou movido pela construção de soluções que unam eficiência técnica e valor de negócio, aplicando padrões como **SOLID, Clean Architecture e Design Patterns** para garantir software de alta qualidade e fácil manutenção.
+
 ---
 ## 🚀 Stacks e Tecnologias de Domínio
 
