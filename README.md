@@ -4,15 +4,11 @@
 <h1 align="center"> Olá! Me chamo Ruan Lima 👋 </h1>
 <h3 align="center"> Desenvolvedor Back-End Java | Spring Boot | Cloud & DevOps </h3>
 
-<br>
-
 ## 👨‍💻 Sobre mim
 Desenvolvedor Back-End Java com sólida base acadêmica pela **FIAP** e experiência prática em sistemas críticos e de alta escalabilidade. Minha trajetória é marcada pela atuação no ecossistema de **Open Finance do Santander (F1RST)**, onde desenvolvi e sustentei APIs robustas para a squad de Iniciação de Pagamentos, sempre com foco em Clean Code e arquitetura de microsserviços.
 
 Sou movido pela construção de soluções que unam eficiência técnica e valor de negócio, aplicando padrões como **SOLID, Clean Architecture e Design Patterns** para garantir software de alta qualidade e fácil manutenção.
-
 ---
-
 ## 🚀 Stacks e Tecnologias de Domínio
 
 ### Backend & Frameworks
