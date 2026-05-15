@@ -53,9 +53,6 @@ Sou movido pela construção de soluções que unam eficiência técnica e valor
 * **[MiniBanco](https://github.com/ruaanls/miniBanco):** API Financeira de Alta Disponibilidade aplicando Arquitetura Hexagonal e Clean Architecture.
 * **[Global Solution](https://github.com/ruaanls/globalsolutionjava):** Sistema Inteligente de Recrutamento & Seleção com esteira CI/CD completa na Azure.
 * **[Mottu Challenge](https://github.com/ruaanls/ChallengeMottu):** Sistema de Gestão de Frota e Logística integrado a aplicativo Mobile e sincronização em tempo real.
-
-*(Lembre-se de substituir o "#" nos links acima pelas URLs reais dos seus repositórios no GitHub)*
-
 ---
 
 ## 📞 Contato
